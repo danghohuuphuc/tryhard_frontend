@@ -1,1 +1,0 @@
-# tryhard_frontend
