@@ -1,0 +1,11 @@
+token git
+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
+git Phuc 
+https://github.com/danghohuuphuc/tryhard_frontend
+
+git add . : them
+git commit -m "noi dung dua len" : xac nhan goi file len 
+git push : day file len 
+git pull : cap nhat lai git 
+
+mai: lam bai tap 
